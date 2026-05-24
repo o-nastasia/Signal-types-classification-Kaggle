@@ -16,4 +16,6 @@
 
 **Лучший результат на Kaggle:** **0.84032**
 
+![Результат на Kaggle](result.png)
+
 **Ссылка на Google Colab:** [Открыть ноутбук](https://colab.research.google.com/drive/18ZHNpIP7125I-BqMgRsJzfMSHAWclhjN?usp=sharing)
